@@ -10,8 +10,6 @@ deploy link : https://fast-react-pizza-co-beta.vercel.app/
 Technologies used in this project: Vite, react-router-dom, Redux toolkit, Tailwindcss
 
 run applicaition :
-<br/>
-npm i
-<br/>
-npm run dev
+- npm i
+- npm run dev
 
